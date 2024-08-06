@@ -1,0 +1,4 @@
+S.no$Items
+1$icecream
+2$pongal
+3$pulihora
